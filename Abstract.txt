@@ -1,0 +1,19 @@
+Project “PAINTING CONTRACTORS MANAGEMENT SYSTEM” is a computerized system used to allow customers to give painting contracts to the available painters. 
+This system has three types of logins that is Admin login, painter login and customer login. This system has 6 types of admin for each services available.
+The available services are Interior painting, Exterior painter,wood and metal painting, Wall paper installation, Texture painting and Custom artwork.
+
+The system allows the customer to send message to the painters about their requirements.
+The admin can view all the messages and assign the painters in that particular area for the particular contract. 
+
+This system allows the admin to add painters, view contracts, view all the messages sent by the customers and take appropriate action. Admin is also eligible to delete or
+edit/update the profile of a painters.
+
+This system allows the customer as well as painters to register.
+customers can view all the services available and estimate the cost for all the services available by giving some parameters like square feet for the type of painting and no of walls for the wall paper design. 
+Here the customer can view all the painters based on their role and can contact the painters personally.
+
+The system allows the customer to place an order after seeing the estimated amount. Once the customer clicks on the button order now, the admin will allocate the painters for the respective orders.
+
+
+Finally this web application helps both the Customer(in search of profession Painters) and painters(in search of painting work).
+This also includes Database management System where a company can look into it and allocate painters for a particular customer.
